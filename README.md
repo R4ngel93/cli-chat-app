@@ -11,4 +11,4 @@ Chat aplication except it's through your terminal emulator.
 + Socket.io
 + inquirer
 
-######Author: r4ng3l
+###### Author: r4ng3l
