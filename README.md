@@ -4,10 +4,11 @@
 Chat aplication except it's through your terminal emulator.
 
 ## Technologies
-· MongoDB
-· Express.js
-· Node.js
-· Socket.io
-· inquirer
++ MongoDB
++ mongoose
++ Express.js
++ Node.js
++ Socket.io
++ inquirer
 
-Author: r4ng3l
+######Author: r4ng3l
