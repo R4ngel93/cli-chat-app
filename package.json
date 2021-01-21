@@ -18,7 +18,7 @@
     "is-empty": "^1.2.0",
     "mongoose": "^5.9.17",
     "readline-sync": "^1.4.10",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
